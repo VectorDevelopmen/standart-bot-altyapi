@@ -4,7 +4,7 @@
 
   <i><small>Veritabansız bir bottur test komutun şablonunu kullanarak komutları yazabilirsiniz </small></i>
 
-  [![Discord sUNUCUMUZ](https://img.shields.io/badge/Discord-Sunucumuz-7354F6?style=flat-square)](https://discord.gg/gpQ23HCpfr)
+  [![Discord sUNUCUMUZ](https://img.shields.io/badge/Discord-Sunucumuz-7354F6?style=flat-square)](https://eggbot.xyz/discord)
   [![Discord sUNUCUMUZ](https://img.shields.io/badge/EggBot-YönetimPaneli-7354F6?style=flat-square)](https://eggbot.xyz)
   [![Discord.js](https://img.shields.io/badge/Discord.js-V.12-7354F6?style=flat-square)](https://www.npmjs.com/package/discord.js)
 
